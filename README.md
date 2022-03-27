@@ -1,2 +1,1 @@
-My first readme
-yes it is
+My first readme yes it is
